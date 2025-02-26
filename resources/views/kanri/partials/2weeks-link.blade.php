@@ -1,0 +1,1 @@
+本日から2週間の予定を見たい場合は<a href="{{ route('kanri.yoyaku.dashboard') }}">こちら</a><br/>

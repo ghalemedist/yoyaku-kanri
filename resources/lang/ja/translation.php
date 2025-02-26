@@ -1,0 +1,28 @@
+<?php 
+return [
+    'Login' => 'ログイン',
+    'Register' => '登録',
+    'User Register' => 'ユーザー登録',
+    'Logout' => 'ログアウト',
+    'Email Address' => 'メールアドレス',
+    'Password' => 'パスワード',
+    'Remember Me' => 'パスワードを記憶する',
+    'Name' => 'ユーザー名',
+    'Confirm Password' => '確認用パスワード',
+    'Forgot Your Password?' => 'パスワードを忘れた場合',
+    'Reset Password' => 'パスワードをリセット',
+    'Send Password Reset Link' => 'メールアドレスに送信',
+    'Please confirm your password before continuing.' => '続行する前にパスワードを確認してください。',
+    'Profile' => 'プロフィール',
+    'Profile Information' => 'プロフィール Information',
+    'Update Password' => 'パスワードを変更',
+    'Current Password' => '現在のパスワード',
+    'New Password' => '新しいパスワード',
+    'Confirm Password' => 'パスワードを確認',
+    'Update' => '更新',
+    'Updated' => '更新しました',
+    'Add New' => '追加する',
+    'Added' => '追加しました',
+    'Account Delete' => 'アカウント削除',
+    'Are you sure you want to delete your account?' => 'アカウントを削除してもよろしいですか?'
+];

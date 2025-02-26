@@ -1,0 +1,57 @@
+{
+  "resources/js/app.css": {
+    "file": "assets/app-0462e2ef.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-0462e2ef.css"
+    ],
+    "dynamicImports": [
+      "resources/js/views/JunbanUketsuke.vue",
+      "resources/js/views/JunbanUketsukeadd.vue",
+      "resources/js/views/JunbanStatus.vue",
+      "resources/js/views/setting/Yoyaku.vue"
+    ],
+    "file": "assets/app-4ff7a416.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/views/JunbanStatus.vue": {
+    "file": "assets/JunbanStatus-a3c5878d.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/views/JunbanStatus.vue"
+  },
+  "resources/js/views/JunbanUketsuke.vue": {
+    "file": "assets/JunbanUketsuke-b30ae83d.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/views/JunbanUketsuke.vue"
+  },
+  "resources/js/views/JunbanUketsukeadd.vue": {
+    "file": "assets/JunbanUketsukeadd-aa199412.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/views/JunbanUketsukeadd.vue"
+  },
+  "resources/js/views/setting/Yoyaku.vue": {
+    "file": "assets/Yoyaku-02928291.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/views/setting/Yoyaku.vue"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-27abf3b7.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
