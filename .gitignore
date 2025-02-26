@@ -10,11 +10,12 @@ vendor
 .env 
 node_modules
 .DS_Store
+*.DS_Store
 dist
 dist-ssr
 coverage
 *.local
-
+sftp-config.json
 /cypress/videos/
 /cypress/screenshots/
 
